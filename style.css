@@ -4,3 +4,20 @@
     box-sizing: border-box;
     font-family: cursive, Arial, Helvetica, sans-serif;
 }
+body{
+    background-color: black;
+    color: white;
+    max-width: 100vw;
+}
+.heading{
+    width: 90%;
+    margin: 40px auto;
+    border: 3px solid #808080;
+    border-radius: 30px;
+    background-color: #161616b3;
+}
+h1{
+    text-align: center;
+    padding: 40px;
+    color: #e50914;
+}
