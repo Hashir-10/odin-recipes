@@ -16,13 +16,13 @@ body{
     border-radius: 30px;
     background-color: #161616b3;
 }
-h1,h2{
+h1,h2,h3{
     text-align: center;
     padding: 40px;
     color: #e50914;
 }
 .img{
-     width: 90%;
+     width: 60%;
     margin: 40px auto;
     border: 3px solid #808080;
     border-radius: 15px;
@@ -31,5 +31,51 @@ h1,h2{
 img{
     border-radius: 20px;
     padding: 8px;
-    width: 100%
+    width: 100%;
+}
+.description{
+    width: 90%;
+    margin: 40px auto;
+    border: 3px solid #808080;
+    border-radius: 30px;
+    background-color: #161616b3;
+    padding: 20px;
+}
+.ingredients{
+     width: 90%;
+    margin: 40px auto;
+    border: 3px solid #808080;
+    border-radius: 30px;
+    background-color: #161616b3;
+    padding-bottom: 20px;
+}
+.instructions{
+     width: 90%;
+    margin: 40px auto;
+    border: 3px solid #808080;
+    border-radius: 30px;
+    background-color: #161616b3;
+    padding-bottom: 20px;
+}
+
+ul,ol{
+      list-style-type: none;
+}
+li,p{
+    padding: 10px;
+    text-align: center;
+}
+.foot{
+    width: 90%;
+    margin: 40px auto;
+    border: 3px solid #808080;
+    border-radius: 30px;
+    background-color: #161616b3;
+}
+a{
+    text-decoration: none;
+    color: hotpink;
+    display:block;
+    text-align: center;
+    padding-bottom: 25px;
 }
